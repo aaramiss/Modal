@@ -7,4 +7,4 @@
 **CSS3**<br>
 **javascript** pure<br>
  ___
-#### Retrieved from <b>Jonas</b> <b>Schmedtmann</b> javascript course of Udemy
+#### Retrieved from javascript course of Udemy
